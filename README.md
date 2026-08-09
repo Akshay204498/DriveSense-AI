@@ -6,11 +6,11 @@
 
 
 
-DriveSense AI is a deep learning-based traffic sign recognition application built using \*\*Python, TensorFlow, Keras, OpenCV and Streamlit\*\*.
+DriveSense AI is a deep learning-based traffic sign recognition application developed using Python, TensorFlow, Keras, OpenCV and Streamlit.
 
 
 
-The system uses a \*\*Convolutional Neural Network (CNN)\*\* trained on the \*\*German Traffic Sign Recognition Benchmark (GTSRB)\*\* dataset to classify traffic signs into \*\*43 different classes\*\*.
+The system uses a Convolutional Neural Network (CNN) trained on the \*\*German Traffic Sign Recognition Benchmark (GTSRB)\*\* dataset to classify traffic signs into \*\*43 different classes\*\*.
 
 
 
@@ -18,39 +18,31 @@ The system uses a \*\*Convolutional Neural Network (CNN)\*\* trained on the \*\*
 
 
 
-\## 🎯 Project Overview
+\## 🚦 Features
 
 
 
-DriveSense AI is designed to recognize traffic signs from uploaded images and provide useful driver-assistance information.
+\- 🚗 Traffic Sign Recognition
 
+\- 🧠 CNN-based Image Classification
 
+\- 🎯 Prediction Confidence Score
 
-The application provides:
+\- ⚠️ Risk Level Detection
 
+\- 🛣️ Driver Safety Recommendations
 
+\- 📜 Prediction History
 
-\- 🚦 Traffic sign recognition
+\- 📊 Prediction Analytics Dashboard
 
-\- 🧠 CNN-based image classification
+\- 📄 PDF Report Generation
 
-\- 🎯 Prediction confidence
+\- 🎤 Voice Alerts
 
-\- ⚠️ Risk-level information
+\- 📷 Camera Detection
 
-\- 🚗 Driver recommendations
-
-\- 📘 Road safety rules
-
-\- 📊 Prediction analytics dashboard
-
-\- 📜 Prediction history
-
-\- 📄 PDF report generation
-
-\- 🎤 Voice alert functionality
-
-\- 📷 Camera-based detection
+\- 📥 CSV Prediction History Download
 
 
 
@@ -66,7 +58,7 @@ The application provides:
 
 |---|---|
 
-| Model | Convolutional Neural Network |
+| Model | Convolutional Neural Network (CNN) |
 
 | Dataset | GTSRB |
 
@@ -80,7 +72,7 @@ The application provides:
 
 
 
-\### Model File
+The trained model is stored in:
 
 
 
